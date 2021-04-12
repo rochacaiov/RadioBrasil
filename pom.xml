@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.codigorocha</groupId>
-    <artifactId>Radio Brasil</artifactId>
+    <artifactId>RadioBrasil</artifactId>
     <version>1.0</version>
 
     <properties>
